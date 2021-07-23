@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() {
     float numbers[5];
-    int j, pct0, nctr=0;
+    int j, pctr0, nctr=0;
     printf("\ninput the first number: ");
     scanf("%f" ,&numbers[0]);
     printf("\ninput the second number: ");
